@@ -1,0 +1,18 @@
+.button1 {
+    background-color: burlywood;
+}
+.title {
+    color:burlywood;
+}
+.text {
+    color: cornsilk;
+}
+.opacity
+{
+    /* opacity: 0.2; */
+    filter: blur(2px);
+  -webkit-filter: blur(2px);
+}
+.skills-img {
+    opacity: 0.3;
+}
